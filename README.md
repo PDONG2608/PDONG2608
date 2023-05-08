@@ -22,11 +22,12 @@
 </p>
 
 ## Skills:
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
+<p align="center"> 
+  <img src="https://img.icons8.com/color/48/000000/java.png"/>
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+  <img src="https://img.icons8.com/color/48/000000/android.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 </p>
