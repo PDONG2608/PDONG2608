@@ -22,6 +22,6 @@
 <p align="center">
   <img src="https://icons8.com/icon/2572/java.png"/>
   <img src="https://icons8.com/icon/ZoxjA0jZDdFZ/kotlin.png"/>
-  <img src="https://icons8.com/icon/P2AnGyiJxMpp/android-os.png"/>
+  <img src="https://img.icons8.com/?size=512&id=P2AnGyiJxMpp&format=png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 </p>
